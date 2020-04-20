@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dhyana
+Exec=dhyana
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

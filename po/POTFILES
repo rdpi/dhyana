@@ -1,0 +1,4 @@
+data/dev.rdpi.Builder.desktop.in
+data/dev.rdpi.Builder.appdata.xml.in
+data/dev.rdpi.Builder.gschema.xml
+src/window.ui
